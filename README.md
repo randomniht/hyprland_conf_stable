@@ -1,3 +1,5 @@
+https://github.com/00Darxk/dotfiles
+super+r run app menu
 # 🚀 Hyprland Горячие клавиши (Stable)
 
 ## Основные горячие клавиши
